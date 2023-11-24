@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="@drawable/rounded"
+	android:layout_margin="20dp">
+
+	<LinearLayout
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:orientation="horizontal"
+		android:id="@+id/info_llPB">
+
+		<ProgressBar
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:id="@+id/info_pb1"
+			android:padding="10dp"
+			android:layout_marginLeft="10dp"/>
+
+		<TextView
+			android:layout_height="wrap_content"
+			android:text="@string/info_collecting_cam"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="wrap_content"
+			android:layout_gravity="center_vertical"
+			android:textStyle="bold"
+			android:id="@+id/info_tvPBInfo"
+			android:paddingEnd="40dp"
+			android:paddingTop="10dp"
+			android:paddingBottom="10dp"
+			android:paddingStart="10dp"/>
+
+	</LinearLayout>
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:text=""
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_margin="10dp"
+		android:padding="10dp"
+		android:id="@+id/info_tvCamInfo"/>
+
+</LinearLayout>
+

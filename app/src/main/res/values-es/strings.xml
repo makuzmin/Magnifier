@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lupa</string>
+
+	<string name="cam_mirror_fr">Espejo</string>
+	<string name="cam_magnifier_bk">Lupa</string>
+
+	<string name="cam_num_txt">Número de cámaras: </string>
+	<string name="cam_not_present">La cámara no está presente en este dispositivo</string>
+	<string name="zoom_is">Ampliar: </string>
+
+	<string name="max_zoom">Ampilar máxima - </string>
+	<string name="no_zoom">Ningún aumento</string>
+
+
+	<string name="focus_mode">Modo de enfoque:</string>
+	<string name="free_txt_1">Utilizar gestos de pellizco para acercar o alejar</string>
+
+	<string name="cam_not_present_HTML">No existen cámaras en este dispositivo</string>
+	<string name="cam_zero_HTML">Número de cámaras: 0</string>
+	<string name="cam_info_not_avail_HTML">Información de la cámara no está disponible</string>
+	<string name="cam_is_present_HTML">Existen Cámaras en este dispositivo</string>
+	<string name="cam_number_HTML">Número de cámaras:</string>
+	<string name="camera_HTML">Cámara</string>
+	<string name="info_HTML">información:</string>
+	<string name="cam_back_HTML">Cámara trasera - lupa;</string>
+	<string name="cam_front_HTML">Cámara frontal - espejo;</string>
+	<string name="cam_zoom_HTML">Lupa es posible</string>
+	<string name="cam_no_zoom_HTML">Lupa no es posible</string>
+	<string name="info_collecting_cam">Recopilación de información de la cámara</string>
+	
+	<string name="pict">Foto</string>
+	<string name="save">Guardar</string>
+	<string name="saved">Archivo guardado como: </string>
+	<string name="not_saved">Archivo no guardado</string>
+	<string name="photo_name">Foto</string>
+</resources>

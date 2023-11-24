@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loupe</string>
+
+	<string name="cam_mirror_fr">Specchio</string>
+	<string name="cam_magnifier_bk">Loupe</string>
+
+	<string name="cam_num_txt">Numero di fotocamere: </string>
+	<string name="cam_not_present">La fotocamera non è presente in questo dispositivo</string>
+	<string name="zoom_is">Zumata: </string>
+
+	<string name="max_zoom">Ingrandimento massimo - </string>
+	<string name="no_zoom">Senza ingrandimento</string>
+
+
+	<string name="focus_mode">Modalità di messa a fuoco:</string>
+	<string name="free_txt_1">Utilizzare i movimenti pizzico di ingrandire o ridurre</string>
+
+	<string name="cam_not_present_HTML">Fotocamere non esistono su questo dispositivo</string>
+	<string name="cam_zero_HTML">Numero di fotocamere: 0</string>
+	<string name="cam_info_not_avail_HTML">Info fotocamera non è disponibile</string>
+	<string name="cam_is_present_HTML">Fotocamere esistono su questo dispositivo</string>
+	<string name="cam_number_HTML">Numero di fotocamere:</string>
+	<string name="camera_HTML">Fotocamera</string>
+	<string name="info_HTML">informazioni:</string>
+	<string name="cam_back_HTML">Fotocamera posteriore - loupe;</string>
+	<string name="cam_front_HTML">Fotocamera frontale - specchio;</string>
+	<string name="cam_zoom_HTML">Ingrandimento è possibile</string>
+	<string name="cam_no_zoom_HTML">Ingrandimento non è possibile</string>
+	<string name="info_collecting_cam">Raccogliendo informazioni sulle fotocamere</string>
+	
+	<string name="pict">Foto</string>
+	<string name="save">Salvare</string>
+	<string name="saved">File salvato come: </string>
+	<string name="not_saved">Il file non è stato salvato</string>
+	<string name="photo_name">Foto</string>
+</resources>

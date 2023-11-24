@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лупа</string>
+
+	<string name="exit">Выход</string>
+	<string name="info">Информация</string>
+
+	<string name="cam_mirror_fr">Зеркало</string>
+	<string name="cam_magnifier_bk">Лупа</string>
+	
+	<string name="cam_num_txt">Доступные камеры: </string>
+	<string name="cam_not_present">Камера не доступна на данном устройстве</string>
+	<string name="zoom_is">Увеличение: </string>
+	
+	<string name="max_zoom">Максимальное увеличение - </string>
+	<string name="no_zoom">нет увеличения</string>
+	
+	
+	<string name="focus_mode">Режим фокусировки:</string>
+	<string name="free_txt_1">Регулируйте увеличение щипками по экрану</string>
+	
+	<string name="cam_not_present_HTML">Камеры не присутствуют на данном устройстве</string>
+	<string name="cam_zero_HTML">Доступные камеры: 0</string>
+	<string name="cam_info_not_avail_HTML">Информация о камерах не доступна</string>
+	<string name="cam_is_present_HTML">Камеры присутствуют на устройстве</string>
+	<string name="cam_number_HTML">Доступные камеры:</string>
+	<string name="camera_HTML">Камера</string>
+	<string name="info_HTML">, информация:</string>
+	<string name="cam_back_HTML">Задняя камера - лупа;</string>
+	<string name="cam_front_HTML">Передняя камера - зеркало;</string>
+	<string name="cam_zoom_HTML">Увеличение возможно</string>
+	<string name="cam_no_zoom_HTML">Увеличение отсутствует</string>
+	<string name="info_collecting_cam">Собираем информацию о камерах</string>
+	
+	<string name="pict">Фото</string>
+	<string name="save">Сохранить</string>
+	<string name="saved">Сохранено как: </string>
+	<string name="not_saved">Файл не сохранен</string>
+	<string name="photo_name">Фото</string>
+</resources>

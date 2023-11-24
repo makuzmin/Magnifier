@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pict">Photo</string>
+	<string name="save">Save</string>
+	<string name="saved">File saved as: </string>
+	<string name="not_saved">File not saved</string>
+	<string name="photo_name">Photo</string>
+</resources>
+	

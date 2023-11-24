@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<color name="transparent">#00000000</color>
+		<color name="baseBarColor">#63128c</color>
+		<color name="baseBlue">#13034f</color>
+		<color name="buttonViolet">#aa55dd</color>
+		<color name="backgrTintRed">#ff5252</color>
+		<color name="rippleColorRed">#ff0000</color>
+		<color name="textColor">#000000</color>
+		
+		<color name="borderLow">#999999</color>
+		<color name="borderHigh">#DDDDDD</color>
+		<color name="gradientStart">#DDDDDD</color>
+		<color name="gradientEnd">#BBBBBB</color>
+		<color name="text">#999999</color>
+		<color name="shadow">#FFFFFF</color>
+	</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lupe</string>
+
+	<string name="cam_mirror_fr">Spiegel</string>
+	<string name="cam_magnifier_bk">Lupe</string>
+
+	<string name="cam_num_txt">Anzahl der Kameras: </string>
+	<string name="cam_not_present">Die Kamera ist auf diesem Gerät nicht verfügbar</string>
+	<string name="zoom_is">Zoom: </string>
+
+	<string name="max_zoom">maximale Zoom - </string>
+	<string name="no_zoom">kein Zoom</string>
+
+
+	<string name="focus_mode">Fokusmodus:</string>
+	<string name="free_txt_1">Verwenden Sie Prise Gesten zu vergrößern oder zu verkleinern</string>
+
+	<string name="cam_not_present_HTML">Kameras nicht auf diesem Gerät vorhanden</string>
+	<string name="cam_zero_HTML">Anzahl der Kameras: 0</string>
+	<string name="cam_info_not_avail_HTML">Kamerainformationen nicht verfügbar</string>
+	<string name="cam_is_present_HTML">Kameras vorhanden auf diesem Gerät</string>
+	<string name="cam_number_HTML">Anzahl der Kameras:</string>
+	<string name="camera_HTML">Kamera</string>
+	<string name="info_HTML">Info:</string>
+	<string name="cam_back_HTML">Rück Kamera - Lupe;</string>
+	<string name="cam_front_HTML">Vordere Kamera - Spiegel;</string>
+	<string name="cam_zoom_HTML">Vergrößerung ist möglich</string>
+	<string name="cam_no_zoom_HTML">Vergrößerung ist nicht möglich</string>
+	<string name="info_collecting_cam">Sammeln Kamera Daten</string>
+	
+	<string name="pict">Foto</string>
+	<string name="save">Speichern</string>
+	<string name="saved">Datei gespeichert als: </string>
+	<string name="not_saved">Datei nicht gespeichert</string>
+	<string name="photo_name">Foto</string>
+</resources>
